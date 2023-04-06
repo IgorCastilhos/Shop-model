@@ -1,4 +1,17 @@
+
+https://user-images.githubusercontent.com/101683017/230483831-6eb6adff-6be7-406a-a713-866114751590.mp4
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+This app is a E-commerce model created using TypeScript, React, React-Hook-Form and the Stitches CSS-in-JS library! It was created following the Ignite series of the course Rocketseat.
+
+* You can see a carousel of images at the Home page
+* You can see the price while hovering the product image
+* Once you click on the product, you are redirected to the product page
+* You can only buy one of each product in this example
+* The Stripe checkout is not 100% functional *
 
 ## Getting Started
 
